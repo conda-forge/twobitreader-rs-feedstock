@@ -1,5 +1,5 @@
 context:
-  version: "0.2.3"
+  version: "0.3.0"
 
 package:
   name: twobitreader-rs
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/t/twobitreader-rs/twobitreader_rs-${{ version }}.tar.gz
-  sha256: 2f989a1378fb0f57be3b208c92d32810eda3728301b8e7c7e130374444b0ecd7
+  sha256: fc3ca63f9cc41d970dad00c583153092f68390c6b8de97f8073501c2d167166d
 
 build:
   number: 0
